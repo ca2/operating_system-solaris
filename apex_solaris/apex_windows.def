@@ -1,0 +1,5 @@
+LIBRARY "apex_freebsd"
+
+EXPORTS
+apex_freebsd_factory
+
